@@ -1,19 +1,26 @@
-Multiplayer Dice Game Setup Guide
+
+# Multiplayer Dice Game Setup Guide
 Welcome to the setup guide for the multiplayer dice game using Nakama server with Docker and Unity. Follow the instructions below to set up the environment and run the game on your local system.
 
-Prerequisites
+# Prerequisites
+
 Before you begin, ensure you have the following installed:
 
-Unity: Version 2022.3.21f1 or higher. Download from Unity's official website.
+Unity: Version 2022.3.21f1 or higher. 
+
+Download from Unity's official website.
+
 Docker Desktop: Install Docker Desktop for your operating system from Docker's official website.
+
 Setting Up Nakama Server with Docker
+
 Clone the Repository:
 
 Clone the project repository from GitHub:
 
 bash
-Copy code
 git clone https://github.com/yourusername/your-repository.git
+
 Navigate to Docker Compose File:
 
 Open a terminal or command prompt and navigate to the root directory of the cloned repository.
